@@ -1,10 +1,10 @@
 # YouTube Video Data Analysis
 
-This project performs web scraping, data cleaning, analysis, and machine learning on YouTube video data using **BeautifulSoup**, **Pandas**, **Matplotlib**, **Seaborn**, and **Scikit-learn**. The data is scraped from the website **kworb.net**, which aggregates YouTube statistics. The goal is to analyze and predict YouTube video metrics such as views, likes, comments, and more.
+This project performs web crawling, data cleaning, analysis, and machine learning on YouTube video data using **BeautifulSoup**, **Pandas**, **Matplotlib**, **Seaborn**, and **Scikit-learn**. The data is collected from the website **kworb.net**, which aggregates YouTube statistics. The goal is to analyze and predict YouTube video metrics such as views, likes, comments, and more.
 
 ## Table of Contents
 1. [Usage](#usage)
-2. [Data Scraping](#data-scraping)
+2. [Data acquisition](#data-acquisition)
 3. [Data Cleaning & Transformation](#data-cleaning--transformation)
 4. [Visualization](#visualization)
 5. [Machine Learning](#machine-learning)
@@ -13,8 +13,8 @@ This project performs web scraping, data cleaning, analysis, and machine learnin
 
 ## Usage
 
-1. **Run the Script:**
-   - The main Python script scrapes data from **kworb.net**, performs data cleaning, creates visualizations, and applies regression models to predict YouTube video metrics.
+1. **Run the Crawling:**
+   - Collect data from **kworb.net**, performs data cleaning, creates visualizations, and applies regression models to predict YouTube video metrics.
    
    - Make sure to have the required libraries installed before running the script.
    
@@ -26,9 +26,9 @@ This project performs web scraping, data cleaning, analysis, and machine learnin
 
 ---
 
-## Data Scraping
+## Data Acquisition
 
-This script scrapes the following data from the **kworb.net** website:
+This script collect the following data from the **kworb.net** website:
 
 - **Top YouTube videos for a given year (e.g., 2022)**
 - **Details for each video:**
