@@ -3,21 +3,6 @@
 This project performs web scraping, data cleaning, analysis, and machine learning on YouTube video data using **BeautifulSoup**, **Pandas**, **Matplotlib**, **Seaborn**, and **Scikit-learn**. The data is scraped from the website **kworb.net**, which aggregates YouTube statistics. The goal is to analyze and predict YouTube video metrics such as views, likes, comments, and more.
 
 ## Table of Contents
-2. [Usage](#usage)
-3. [Data Scraping](#data-scraping)
-4. [Data Cleaning & Transformation](#data-cleaning--transformation)
-5. [Visualization](#visualization)
-6. [Machine Learning](#machine-learning)
-7. [Contributing](#contributing)
-8. [License](#license)
-
----
-
-# YouTube Video Data Analysis
-
-This project performs web scraping, data cleaning, analysis, and machine learning on YouTube video data using **BeautifulSoup**, **Pandas**, **Matplotlib**, **Seaborn**, and **Scikit-learn**. The data is scraped from the website **kworb.net**, which aggregates YouTube statistics. The goal is to analyze and predict YouTube video metrics such as views, likes, comments, and more.
-
-## Table of Contents
 1. [Usage](#usage)
 2. [Data Scraping](#data-scraping)
 3. [Data Cleaning & Transformation](#data-cleaning--transformation)
