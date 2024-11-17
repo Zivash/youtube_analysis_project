@@ -4,7 +4,7 @@ This project performs web crawling, data cleaning, analysis, and machine learnin
 
 ## Table of Contents
 1. [Usage](#usage)
-2. [Data acquisition](#data-acquisition)
+2. [Data Acquisition](#data-acquisition)
 3. [Data Cleaning & Transformation](#data-cleaning--transformation)
 4. [Visualization](#visualization)
 5. [Machine Learning](#machine-learning)
