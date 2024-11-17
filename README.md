@@ -8,8 +8,6 @@ This project performs web scraping, data cleaning, analysis, and machine learnin
 3. [Data Cleaning & Transformation](#data-cleaning--transformation)
 4. [Visualization](#visualization)
 5. [Machine Learning](#machine-learning)
-6. [Contributing](#contributing)
-7. [License](#license)
 
 ---
 
@@ -109,21 +107,3 @@ The script applies **Linear Regression** and **Random Forest Regression** models
 - "Duration Time"
 
 The models are trained on a training set and evaluated on a test set, with performance metrics (R-squared) outputted.
-
----
-
-## Contributing
-
-Contributions are welcome! If you have suggestions or improvements to the code, please feel free to submit a pull request or open an issue.
-
-1. Fork the repository.
-2. Create a new branch (`git checkout -b feature-branch`).
-3. Commit your changes (`git commit -am 'Add new feature'`).
-4. Push to the branch (`git push origin feature-branch`).
-5. Open a pull request.
-
----
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
