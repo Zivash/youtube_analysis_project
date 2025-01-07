@@ -6,27 +6,27 @@ This project performs web crawling, data cleaning, analysis, and machine learnin
 ## Key Features
 
 ### 1. **Web Crawling**:
-- Extracted YouTube video data, including **views**, **likes**, **comments**, and **metadata** using **BeautifulSoup** and **requests**.
-- Gathered detailed information from **kworb.net**, processing data from various YouTube channels and videos.
+- Extracts YouTube video data, including **views**, **likes**, **comments**, and **metadata** using **BeautifulSoup** and **requests**.
+- Gathers detailed information from **kworb.net**, processing data from various YouTube channels and videos.
 
 ### 2. **Data Cleaning and Preprocessing**:
-- Handled missing values, removed duplicates, and transformed raw data into a clean and structured format using **Pandas**.
-- Applied **encoding techniques** to categorical features and converted text data into numeric values.
+- Handles missing values, removed duplicates, and transformed raw data into a clean and structured format using **Pandas**.
+- Applies **encoding techniques** to categorical features and converted text data into numeric values.
 
 ### 3. **Exploratory Data Analysis (EDA)**:
-- Conducted visual analysis to identify patterns and trends in video properties.
-- Created interactive plots using **Matplotlib** and **Seaborn** to present insights into video performance.
+- Conducts visual analysis to identify patterns and trends in video properties.
+- Creates interactive plots using **Matplotlib** and **Seaborn** to present insights into video performance.
 
 ### 4. **Predictive Modeling**:
-- Built and trained machine learning models (**Linear Regression**, **Random Forest Regressor**) to predict video views based on various features.
-- Evaluated model performance using regression analysis and visualized prediction results.
+- Builds and trained machine learning models (**Linear Regression**, **Random Forest Regressor**) to predict video views based on various features.
+- Evaluates model performance using regression analysis and visualized prediction results.
 
 ### 5. **Data Visualization**:
-- Utilized **Matplotlib** and **Seaborn** to explore relationships in the data and visualize patterns.
-- Displayed results using **heatmaps**, **histograms**, and **scatter plots** for deeper insights.
+- Utilizes **Matplotlib** and **Seaborn** to explore relationships in the data and visualize patterns.
+- Displays results using **heatmaps**, **histograms**, and **scatter plots** for deeper insights.
 
 ### 6. **Data Export and Reporting**:
-- Exported cleaned data and results into **CSV** files for further use and reporting.
+- Exports cleaned data and results into **CSV** files for further use and reporting.
 
 ## Results
 
