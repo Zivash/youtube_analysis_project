@@ -6,12 +6,12 @@ This project performs web crawling, data cleaning, analysis, and machine learnin
 ## Key Features
 
 ### 1. **Web Crawling**:
-- Extracts YouTube video data, including **views**, **likes**, **comments**, and **metadata** using **BeautifulSoup** and **requests**.
+- Extracts YouTube video data, including views, likes, comments, and metadata using **BeautifulSoup** and **requests**.
 - Gathers detailed information from **kworb.net**, processing data from various YouTube channels and videos.
 
 ### 2. **Data Cleaning and Preprocessing**:
 - Handles missing values, removed duplicates, and transformed raw data into a clean and structured format using **Pandas**.
-- Applies **encoding techniques** to categorical features and converted text data into numeric values.
+- Applies encoding techniques to categorical features and converted text data into numeric values.
 
 ### 3. **Exploratory Data Analysis (EDA)**:
 - Conducts visual analysis to identify patterns and trends in video properties.
