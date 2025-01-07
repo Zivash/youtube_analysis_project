@@ -31,3 +31,17 @@ This project performs web crawling, data cleaning, analysis, and machine learnin
 ## Results
 
 The project generates a cleaned dataset and visualizations based on YouTube video data. The predictive models can estimate video views based on features like the number of likes, comments, and the channel's subscriber count.
+
+## **Screenshoots**
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/8d0d45b2-7fae-4c99-861c-cf46bfdcd027" width="500" />
+  &nbsp;&nbsp;&nbsp;
+   <img src="https://github.com/user-attachments/assets/b5a3fcf7-85b1-492b-9653-5190f6b9cd5e" width="500" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/user-attachments/assets/8fca582c-13e4-49b7-aac4-448de82968b3" width="500" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/user-attachments/assets/18dff8c4-1837-4af0-84c9-7949d81de458" width="500" />
+  &nbsp;&nbsp;&nbsp;
+
+
+  
