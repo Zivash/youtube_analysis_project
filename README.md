@@ -34,6 +34,10 @@ The project generates a cleaned dataset and visualizations based on YouTube vide
 
 ## **Screenshoots**
 <div align="center">
+   <img src="https://github.com/user-attachments/assets/abd81d76-48ae-4b07-a44e-9106a75b6edf" width="200" />
+  &nbsp;&nbsp;&nbsp;
+   <img src="https://github.com/user-attachments/assets/c7dd9988-2267-456b-ad71-9e6725bd9e17" width="200" />
+  &nbsp;&nbsp;&nbsp;
    <img src="https://github.com/user-attachments/assets/b5a3fcf7-85b1-492b-9653-5190f6b9cd5e" width="200" />
   &nbsp;&nbsp;&nbsp;
   <img src="https://github.com/user-attachments/assets/8fca582c-13e4-49b7-aac4-448de82968b3" width="200" />
@@ -42,6 +46,5 @@ The project generates a cleaned dataset and visualizations based on YouTube vide
   &nbsp;&nbsp;&nbsp;
   <img src="https://github.com/user-attachments/assets/8d0d45b2-7fae-4c99-861c-cf46bfdcd027" width="200" />
   &nbsp;&nbsp;&nbsp;
-
 
   
