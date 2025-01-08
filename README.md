@@ -47,5 +47,3 @@ The project generates a cleaned dataset and visualizations based on YouTube vide
   &nbsp;&nbsp;&nbsp;
   <img src="https://github.com/user-attachments/assets/8d0d45b2-7fae-4c99-861c-cf46bfdcd027" width="300" height="300" />
   &nbsp;&nbsp;&nbsp;
-
-  
