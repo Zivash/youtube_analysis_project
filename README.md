@@ -37,25 +37,26 @@ The project generates a cleaned dataset and visualizations based on YouTube vide
 <table align="center">
   <tr>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/abd81d76-48ae-4b07-a44e-9106a75b6edf" width="300" height="300" />
+      <img src="https://github.com/user-attachments/assets/abd81d76-48ae-4b07-a44e-9106a75b6edf" width="250" height="250" style="border-radius: 8px; margin: 10px;" />
     </td>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/c7dd9988-2267-456b-ad71-9e6725bd9e17" width="300" height="300" />
+      <img src="https://github.com/user-attachments/assets/c7dd9988-2267-456b-ad71-9e6725bd9e17" width="250" height="250" style="border-radius: 8px; margin: 10px;" />
     </td>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/b5a3fcf7-85b1-492b-9653-5190f6b9cd5e" width="300" height="300" />
+      <img src="https://github.com/user-attachments/assets/b5a3fcf7-85b1-492b-9653-5190f6b9cd5e" width="250" height="250" style="border-radius: 8px; margin: 10px;" />
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/8fca582c-13e4-49b7-aac4-448de82968b3" width="300" height="300" />
+      <img src="https://github.com/user-attachments/assets/8fca582c-13e4-49b7-aac4-448de82968b3" width="250" height="250" style="border-radius: 8px; margin: 10px;" />
     </td>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/18dff8c4-1837-4af0-84c9-7949d81de458" width="300" height="300" />
+      <img src="https://github.com/user-attachments/assets/18dff8c4-1837-4af0-84c9-7949d81de458" width="250" height="250" style="border-radius: 8px; margin: 10px;" />
     </td>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/8d0d45b2-7fae-4c99-861c-cf46bfdcd027" width="300" height="300" />
+      <img src="https://github.com/user-attachments/assets/8d0d45b2-7fae-4c99-861c-cf46bfdcd027" width="250" height="250" style="border-radius: 8px; margin: 10px;" />
     </td>
   </tr>
 </table>
+
 
